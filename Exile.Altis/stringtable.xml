@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Project name="ExAd">
+	<Package name="HaloParachute">
+		<Container name="Actions">
+			<Key ID="STR_ExAd_HALOPARACHUTE_ACTIONS_HALO">
+				<Original>Salto HALO</Original>
+			</Key>
+			<Key ID="STR_ExAd_HALOPARACHUTE_ACTIONS_PARACHUTE">
+				<Original>Abrir paracaídas</Original>
+			</Key>
+			<Key ID="STR_ExAd_HALOPARACHUTE_ACTIONS_DETACH">
+				<Original>Cortar cuerda</Original>
+			</Key>
+		</Container>
+		<Container name="Info">
+			<Key ID="STR_ExAd_HALOPARACHUTE_INFO_DETACH">
+				<Original>Alt+Shift+V para eyectar del paracaídas.</Original>
+			</Key>
+		</Container>
+	</Package>
+	<Package name="StatsBar">
+		<Container name="App">
+			<Key ID="STR_ExAd_SB_APP_GO_BACK">
+				<Original>Volver</Original>
+			</Key>
+			<Key ID="STR_ExAd_SB_APP_CB_KD">
+				<Original>Ratio Baja/Muerte</Original>
+			</Key>
+			<Key ID="STR_ExAd_SB_APP_CB_HP">
+				<Original>Salud</Original>
+			</Key>
+			<Key ID="STR_ExAd_SB_APP_CB_THIRST">
+				<Original>Sed</Original>
+			</Key>
+			<Key ID="STR_ExAd_SB_APP_CB_HUNGER">
+				<Original>Hambre</Original>
+			</Key>
+			<Key ID="STR_ExAd_SB_APP_CB_WALLET">
+				<Original>Chapas en la cartera</Original>
+			</Key>
+			<Key ID="STR_ExAd_SB_APP_CB_BANK">
+				<Original>Chapas en el banco</Original>
+			</Key>
+			<Key ID="STR_ExAd_SB_APP_CB_RESPECT">
+				<Original>Respeto</Original>
+			</Key>
+			<Key ID="STR_ExAd_SB_APP_CB_COLORS">
+				<Original>Usa indicaciones de color</Original>
+			</Key>
+			<Key ID="STR_ExAd_SB_APP_CB_FPS">
+				<Original>FPS</Original>
+			</Key>
+			<Key ID="STR_ExAd_SB_APP_CB_TIMER">
+				<Original>Tiempo de reinicio</Original>
+			</Key>
+			<Key ID="STR_ExAd_SB_APP_CB_TEMP">
+				<Original>Temperatura corporal</Original>
+			</Key>
+			<Key ID="STR_ExAd_SB_APP_CB_GRID">
+				<Original>Coordenadas</Original>
+			</Key>
+			<Key ID="STR_ExAd_SB_APP_CB_COMPASS">
+				<Original>Brújula</Original>
+			</Key>
+			<Key ID="STR_ExAd_SB_APP_CB_PLAYERS">
+				<Original>Jugadores en línea</Original>
+			</Key>
+			<Key ID="STR_ExAd_SB_APP_CB_CLAN_MEMBERS">
+				<Original>Miembros del clan en línea</Original>
+			</Key>
+			<Key ID="STR_ExAd_SB_APP_CB_HIDE_EXILE_SB">
+				<Original>Ocultar barra de información</Original>
+			</Key>
+			<Key ID="STR_ExAd_SB_APP_SLIDER_BG_COLOR">
+				<Original>Color de fondo</Original>
+			</Key>
+			<Key ID="STR_ExAd_SB_APP_SLIDER_POS_SIZE">
+				<Original>Posición/Tamaño</Original>
+			</Key>
+			<Key ID="STR_ExAd_SB_APP_COMBO_FONT">
+				<Original>Fuente</Original>
+			</Key>
+			<Key ID="STR_ExAd_SB_APP_COMBO_TOOLTIP_FONT">
+				<Original>Fuente</Original>
+			</Key>
+			<Key ID="STR_ExAd_SB_APP_COMBO_TOOLTIP_ALIGN">
+				<Original>Alineamiento</Original>
+			</Key>
+			<Key ID="STR_ExAd_SB_APP_SLIDER_TEXT_COLOR">
+				<Original>Color del texto</Original>
+			</Key>
+			<Key ID="STR_ExAd_SB_APP_SLIDER_UPDATE_RATE">
+				<Original>Ratio de actualización</Original>
+			</Key>
+			<Key ID="STR_ExAd_SB_APP_SLIDER_TEXT_SIZE">
+				<Original>Tamaño del texto</Original>
+			</Key>
+			<Key ID="STR_ExAd_SB_APP_SLIDER_TEXT_MARGIN">
+				<Original>Margen</Original>
+			</Key>
+			<Key ID="STR_ExAd_SB_APP_SLIDER_TEXT_PADDING">
+				<Original>Espaciado</Original>
+			</Key>
+			<Key ID="STR_ExAd_SB_APP_SLIDER_IMG_SIZE">
+				<Original>Tamaño de imagen</Original>
+			</Key>
+			<Key ID="STR_ExAd_SB_APP_BTN_SHOW">
+				<Original>Mostrar</Original>
+			</Key>
+			<Key ID="STR_ExAd_SB_APP_BTN_HIDE">
+				<Original>Ocultar</Original>
+			</Key>
+		</Container>
+	</Package>
+</Project>
